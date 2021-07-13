@@ -1,1 +1,2 @@
 # Goku_vs_Vegeta
+This is a Deep Learning Programming Project consisting of concepts of OpenCV, Convolution Neural Network, and many more. In this project, I have made an Image Classification Model using the image datasets of two famous fictional anime characters, Goku and Vegeta from DBZ. The AI model is trained using 453 images of both Goku and Vegeta in the training dataset, and it gives an accuracy of 70% on the validation dataset, which is very good considering the complex and diverse images of the characters that have been used in this project.
