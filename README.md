@@ -4,6 +4,7 @@ This is a Deep Learning Programming Project consisting of concepts of OpenCV, Co
 The dataset for this project was made personally from downloading pictures from Google Images. We all know that the images from google comes in various shapes, sizes, colors, orientation and qualities. Thus, using these complex and diverse images while training will not get fantastic results.
 
 The AI model is trained using 453 images of both Goku and Vegeta in the training dataset, and it gives an excellent accuracy of 76.36% on the validation dataset.
+
 Results:
 1. Training Accuracy: 80%
 2. Validation Accuracy: 76%
